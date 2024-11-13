@@ -1,0 +1,15 @@
+# conf.yml
+# This is a Jekyll theme based on the default Jekyll theme.
+# You can find out more information on modifying your Jekyll theme at
+# https://jekyllrb.com/docs/themes/
+
+# Site settings
+title: "My Jekyll Site"
+description: "This is a Jekyll site generated with the Jekyll theme."
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://example.com" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+theme: jekyll-theme-cayman
+plugins:
